@@ -1,0 +1,13 @@
+{
+  "name": "job_status",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "build": "cd job-status && npm run build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
